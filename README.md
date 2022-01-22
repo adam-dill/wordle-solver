@@ -1,2 +1,2 @@
 # wordle-solver
-A tool to help solve the Wordle puzzle
+A tool to help solve the Wordle puzzle.
