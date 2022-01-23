@@ -17,7 +17,7 @@ function App() {
     
     return (
         <div className="app row">
-            <div className="column">
+            <div className="column px-3">
                 Excludes:
                 <input type="text" onChange={e => {
                     setExcludes(e.target.value.toLowerCase().split(''));

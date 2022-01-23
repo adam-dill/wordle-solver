@@ -51,3 +51,5 @@ body {
   width: 2rem;
   text-align: center;
 }
+
+.px-3 { padding: 0 3rem; }
